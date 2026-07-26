@@ -1,3 +1,3 @@
 # techvista-main
 
-https://zahradiv.github.io/techvista-main/aseets/
+https://zahradiv.github.io/techvista-main/
