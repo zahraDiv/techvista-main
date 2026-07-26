@@ -1,3 +1,3 @@
 # techvista-main
 
-https://zahradiv.github.io/techvista-main/
+https://zahradiv.github.io/techvista-main/index.html
