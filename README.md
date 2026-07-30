@@ -22,8 +22,7 @@ TechVista is a sleek, professional web platform designed for tech enthusiasts an
 
 ---
 
-## 🌐 Live Demo
-🔗 [Click Here to Visit TechVista](https://zahradiv.github.io/techvista-main/)
+## 🌐 Live Demo https://zahradiv.github.io/techvista-main/
 
 ---
 
